@@ -1,0 +1,4 @@
+Poisson Equation in 2D:
+domain = Unstructured Mesh
+load = sin(pi*x)*sin(pi*y)
+BC = 0.d0 on all the parts of boundary 
